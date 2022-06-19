@@ -1,4 +1,5 @@
-# Ex.No:7 Develop a simple calculator using android studio.
+# <p align="center"> Ex.No:7 Develop a simple calculator using android studio.</p>
+
 ## AIM:
 To develop a program to develop a simple calculator in Android Studio.
 
